@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  demoPch
+//
+//  Created by CHX on 2017/7/24.
+//  Copyright © 2017年 chx. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "Config.h"
+
+#endif /* PrefixHeader_pch */
